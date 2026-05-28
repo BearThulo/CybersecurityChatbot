@@ -41,6 +41,7 @@ namespace CybersecurityChatbot
             }
         };
 
+
         public string GetResponse(string message)
         {
             message = message.ToLower();
