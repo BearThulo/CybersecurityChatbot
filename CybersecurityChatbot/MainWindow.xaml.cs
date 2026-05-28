@@ -29,6 +29,7 @@ namespace CybersecurityChatbot
             }
         }
 
+
         private void SendMessage()
         {
             string userMessage = UserInput.Text;
