@@ -49,6 +49,7 @@ namespace CybersecurityChatbot
             ChatDisplay.Text += "Bot: " + botReply + "\n\n";
 
             UserInput.Clear();
+
         }
     }
 }
