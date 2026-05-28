@@ -38,6 +38,7 @@ namespace CybersecurityChatbot
 
             string mood = sentiment.CheckSentiment(userMessage);
 
+
             if (mood != "")
             {
                 ChatDisplay.Text += "Bot: " + mood + "\n";
