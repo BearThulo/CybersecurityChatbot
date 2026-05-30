@@ -13,7 +13,31 @@ namespace CybersecurityChatbot
         {
             InitializeComponent();
 
-            ChatDisplay.Text = "Cybersecurity Bot: Hello! Ask me about cybersecurity.\n\n";
+            ChatDisplay.Text =
+@"  _____       _               
+ / ____|     | |              
+| |    _   _ | |__    ___ _ __
+| |   | | | || '_ \  / _ \ '__|
+| |___| |_| || |_) ||  __/ |   
+ \_____\__, ||_.__/  \___|_|   
+        __/ |                  
+       |___/                   
+
+========================================
+      CYBERSECURITY AWARENESS BOT
+========================================
+
+Hello and welcome!
+
+I can help you learn about:
+• Password Safety
+• Phishing Attacks
+• Online Privacy
+• Cyber Scams
+
+Type a question below to get started.
+
+";
         }
 
         private void SendButton_Click(object sender, RoutedEventArgs e)
