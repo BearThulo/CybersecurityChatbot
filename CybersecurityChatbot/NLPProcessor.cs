@@ -8,7 +8,7 @@
 
             return message.StartsWith("remind me to");
         }
-
+         
         public string GetTaskTitle(string message)
         {
             message = message.ToLower();
