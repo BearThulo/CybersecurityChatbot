@@ -2,7 +2,7 @@
 
 ## About the Project
 This project is a Cybersecurity Awareness Chatbot built using C# and WPF in Visual Studio. It helps users learn about common cybersecurity topics while also allowing them to manage simple cybersecurity-related tasks.
-
+ 
 ## Features
 The chatbot can:
 - Answer cybersecurity questions
